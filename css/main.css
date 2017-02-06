@@ -10,6 +10,7 @@ body
   padding-left: 50px;
   padding-right: 50px;
   padding-top: 10px;
+  padding-bottom: 50px;
   width: 50%;
   border: 2px solid #5F021F;
   border-radius: .5rem;
@@ -50,4 +51,23 @@ img
 {
   color: #A47;
   font-weight: bold;
+}
+
+button
+{
+  background-color: #5F021F;
+  border: none;
+  color: #FFFFFF;
+  text-decoration: none;
+  transition-duration: 0.2s;
+}
+
+button:hover
+{
+  background-color: #A12;
+}
+
+button:disabled
+{
+  color: #FF0000;
 }

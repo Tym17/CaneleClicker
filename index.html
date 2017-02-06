@@ -3,18 +3,21 @@
 
 <head>
     <meta charset="utf-8">
-    <title>IdleClicker</title>
+    <title>CanneleClicker</title>
     <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="js/script.js" type="text/javascript"></script>
 </head>
 
 <body>
     <div class="app">
-        <h1>IdleClicker</h1>
+        <h1>Cannelé Clicker</h1>
         <div class="image-cadre">
             <img src="img/Caneles_stemilion.jpg" />
         </div>
         <div class="content">
           <p>You have <span id="number">0</span> Cannelés.</p>
+          <button onclick="bake()">Bake more !</button>
+          <button id="ovenBtn" onclick="buyOven()" disabled="true">Buy Oven (25 Cannelés)</button>
         </div>
     </div>
 </body>
