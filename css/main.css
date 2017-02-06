@@ -1,0 +1,53 @@
+body
+{
+  background-color: #CCC;
+}
+
+.app
+{
+  background-color: #F1EFE9;
+  margin: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  width: 50%;
+  border: 2px solid #5F021F;
+  border-radius: .5rem;
+}
+
+h1
+{
+  color: #5F021F;
+}
+
+.image-cadre
+{
+    width: 100%;
+    height: 250px;
+    border: 2px solid #5F021F;
+    border-radius: .5rem;
+    margin: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+img
+{
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: .5rem;
+}
+
+.content
+{
+  width: 80%;
+  margin: auto;
+}
+
+#number
+{
+  color: #A47;
+  font-weight: bold;
+}
