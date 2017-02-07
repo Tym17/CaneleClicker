@@ -7,4 +7,5 @@
 
 ### Credits
 **Caneles_stemilion.jpg** by Robyn Lee *(CC BY-SA 2.5)*
+
 **canele-vec.png** by myself *(CC BY-SA)*
