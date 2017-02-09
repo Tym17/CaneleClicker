@@ -8,4 +8,4 @@
 ### Credits
 **Caneles_stemilion.jpg** by Robyn Lee *(CC BY-SA 2.5)*
 
-**canele-vec.png** by myself *(CC BY-SA)*
+**canele-vec.png** by Tym17 *(CC BY-SA)*
