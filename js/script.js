@@ -2,6 +2,8 @@
 var score = 0;
 var adding = 1;
 
+var multiple = 0;
+
 var ovenPrice = 25;
 
 // Called when simple button is pressed
@@ -20,6 +22,9 @@ function buyOven()
     score -= ovenPrice;
     document.getElementById('number').innerHTML = score;
     adding += 1;
+    multiple += 1;
+    ovenPrice += multiple * 25;
+    document.getElementById('ovenBtn').innerHTML = 'Buy Oven (' + ovenPrice + ')'
   }
   refreshOptions();
 }
