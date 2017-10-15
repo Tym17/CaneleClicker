@@ -2,7 +2,7 @@
 > Simple repository to make a simple clicker game and teach HTML, CSS and Javascript.
 
 
-[Live demo](https://tym17.github.io/CanneleClicker/)
+[Live demo](https://tym17.github.io/CaneleClicker/)
 
 
 ### Credits
